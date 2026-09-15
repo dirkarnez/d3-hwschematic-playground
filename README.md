@@ -7,3 +7,6 @@ From v0.1.6 of https://github.com/Nic30/d3-hwschematic/blob/v0.1.6/examples/exam
 
 ### Using
 - [dirkarnez/d3-hwschematic-prebuilt](https://github.com/dirkarnez/d3-hwschematic-prebuilt)
+
+
+<!-- Security scan triggered at 2026-09-15 09:39:29 -->
